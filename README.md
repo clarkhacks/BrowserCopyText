@@ -1,1 +1,5 @@
 # BrowserCopyText
+
+```javascript
+copyText('TextToCopy')
+```
